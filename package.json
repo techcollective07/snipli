@@ -30,7 +30,7 @@
     "object-path": "^0.11.8",
     "open": "^8.4.0",
     "ora": "5.4.1",
-    "shelljs": "^0.8.5"
+    "shelljs": "^0.10.0"
   },
   "devDependencies": {
     "@oclif/test": "2.1.0",
@@ -38,7 +38,7 @@
     "@types/inquirer": "8.2.1",
     "@types/node": "16.11.45",
     "@types/object-path": "0.11.1",
-    "@types/shelljs": "0.8.11",
+    "@types/shelljs": "0.10.0",
     "eslint": "8.22.0",
     "eslint-config-oclif": "4.0.0",
     "eslint-config-oclif-typescript": "1.0.2",
